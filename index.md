@@ -41,4 +41,16 @@ sections:
       url: /our-partners/
       image: /images/ss_infopic_bg_1.png
       alt: Image alt text
+  - infocols:
+      title: Anti-scam safety powered by ScamShield
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Check for Scams
+          description: Know if a suspicious message, link, or number could be a scam
+        - title: Submit a scam report
+          description: Submit scam reports with screenshots, so we can monitor scams more
+            effectively
+        - title: Block and filter scams
+          description: Set up your phone to block calls and SMSes from scammers
 ---
