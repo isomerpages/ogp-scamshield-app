@@ -12,7 +12,7 @@ sections:
   - infocols:
       title: Anti-scam safety powered by ScamShield
       id: infocols
-      linktext: Learn more
+      linktext: Download Now
       infoboxes:
         - title: Check for Scams
           description: Know if a suspicious message, link, or number could be a scam
@@ -21,6 +21,7 @@ sections:
             effectively
         - title: Block and filter scams
           description: Set up your phone to block calls and SMSes from scammers
+      url: www.google.com
   - infopic:
       title: Check for Scams
       subtitle: New!
