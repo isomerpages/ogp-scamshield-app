@@ -9,19 +9,6 @@ sections:
   - hero:
       background: /images/Hero_Option_10.png
       variant: center
-      key_highlights:
-        - title: Get help if you have been scammed
-          description: ""
-          url: /i-ve-been-scammed/
-        - title: check if something suspicious is a scam
-          description: ""
-          url: /check-if-something-is-a-scam/
-        - title: Report a scam you have encountered
-          description: ""
-          url: /report-scam-encounter/
-        - title: Protect yourself against scams
-          description: ""
-          url: /introduction-to-scams/
   - infocols:
       title: Anti-scam safety powered by ScamShield
       id: infocols
@@ -71,7 +58,7 @@ sections:
       id: infopic
       description: The ScamShield App blocks calls from numbers known to be used in
         illegal activities. It also filters or alerts you to suspicious SMSes.
-      button: Learn more
+      button: download now
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
       image: /images/Keep_safe_with_ScamShield.png
