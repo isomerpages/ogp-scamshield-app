@@ -22,34 +22,6 @@ sections:
         - title: Protect yourself against scams
           description: ""
           url: /introduction-to-scams/
-  - textcards:
-      title: Trending scams
-      subtitle: June 2024
-      id: textcards
-      cards:
-        - title: Investment scam
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Government Impersonation scam
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Phishing scam
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Job scam
-          description: ""
-          linktext: Learn more
-          url: ""
-  - infobar:
-      title: CALL 1799
-      subtitle: unsure if something is a scam?
-      id: infobar
-      description: Call the helpline if you are in a situation you think could be a scam
-      button: or check using the scamshield app
-      url: www.scamshield.gov.sg
   - infopic:
       title: Keep safe with the ScamShield App
       id: infopic
@@ -59,45 +31,11 @@ sections:
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
       image: /images/Keep_safe_with_ScamShield.png
-  - infopic:
-      title: 1 in 5 Singaporeans has fallen for a scam
-      subtitle: Did you know?
-      id: infopic
-      description: Protect yourself and loved ones with scam-prevention tools, and
-        always be alert to potential scams.
-      image: /images/thumbnail_frustrated_guy_in_front_of_computer_2x.jpg
-      alt: Image alt text
-  - infopic:
-      title: Scams Bulletin
-      subtitle: June 2024
-      id: infopic
-      button: Read Now
-      url: about:space
-      image: /images/Scams_bulletin.png
-      alt: Image alt text
-      description: Learn about the latest scam trends from the Police's Monthly Scams
-        Bulletin.
   - announcements:
       title: Lastest News
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
-        - title: BELOW ARE DRAFT
-          date: 31 December 2200
-          announcement: Below content are draft
-          link_text: ""
-          link_url: ""
-        - title: Enhanced ScamShield App
-          date: 30 June 2024
-          announcement: ScamShield App has been enhanced. Find out more about the new
-            features here.
-          link_text: Read now
-          link_url: scamshield.org.sg
-        - title: New one-stop portal
-          date: 30 August 2024
-          announcement: A new one-stop portal for all scam related content has been launched.
-          link_text: Read now
-          link_url: scamshield.gov.sg
         - title: Anti-Scam competition
           date: 16 April 2024
           announcement: ABS launches anti-scam mascot design competition
