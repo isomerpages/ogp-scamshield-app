@@ -12,7 +12,7 @@ sections:
   - infocols:
       title: Anti-scam safety powered by ScamShield
       id: infocols
-      linktext: Download Now
+      linktext: Download or Update in app store
       infoboxes:
         - title: Check for Scams
           description: Know if a suspicious message, link, or number could be a scam
