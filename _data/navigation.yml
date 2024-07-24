@@ -2,7 +2,7 @@ logo: /images/Logo_2024.png
 links:
   - title: Home
     url: https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/
-  - title: Protection against scams
-    collection: i-want-protection-from-scams
   - title: About ScamShield
     url: /permalink
+  - title: How to Stay Safe
+    collection: i-want-protection-from-scams
