@@ -50,7 +50,7 @@ sections:
       alt: Image alt text
       image: /images/ScamShield_App_v2__3_.png
       button: Learn more
-      url: www.google.com
+      url: /set-up-scamshield-app/
   - textcards:
       title: Need more help?
       id: textcards
