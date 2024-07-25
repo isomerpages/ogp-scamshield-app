@@ -40,7 +40,7 @@ sections:
       button: Learn more
       alt: Image alt text
       image: /images/ScamShield_App_v2_Master__16_.png
-      url: www.google.com
+      url: /report-a-scam/permalink/
   - infopic:
       title: Block and filter/detect scams
       subtitle: Improved detection
