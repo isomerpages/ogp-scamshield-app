@@ -37,9 +37,10 @@ sections:
       id: infopic
       description: Submit scam reports with screenshots, so we can monitor scams more
         effectively
-      button: Button Text
+      button: Learn more
       alt: Image alt text
       image: /images/ScamShield_App_v2_Master__16_.png
+      url: www.google.com
   - infopic:
       title: Block and filter/detect scams
       subtitle: Improved detection
@@ -48,15 +49,8 @@ sections:
         illegal activities. It also filters or alerts you to suspicious SMSes.
       alt: Image alt text
       image: /images/ScamShield_App_v2__3_.png
-  - infopic:
-      title: United against scammers
-      id: infopic
-      description: ScamShield is a joint effort by the Ministry of Home Affairs, the
-        Singapore Police Force, Open Government Products, and the National Crime
-        Prevention Council.
-      url: /our-partners/
-      image: /images/ss_infopic_bg_1.png
-      alt: Image alt text
+      button: Learn more
+      url: www.google.com
   - textcards:
       title: Need more help?
       id: textcards
@@ -73,4 +67,13 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - infopic:
+      title: United against scammers
+      id: infopic
+      description: ScamShield is a joint effort by the Ministry of Home Affairs, the
+        Singapore Police Force, Open Government Products, and the National Crime
+        Prevention Council.
+      url: /our-partners/
+      image: /images/ss_infopic_bg_1.png
+      alt: Image alt text
 ---
