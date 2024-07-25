@@ -26,8 +26,7 @@ sections:
       title: Check for Scams
       subtitle: New!
       id: infopic
-      description: Saw something suspicious? Use ScamShield's new 'Check for Scams'
-        feature something something
+      description: Know if a suspicious message, link, or number could be a scam
       button: Learn more
       image: /images/ScamShield_App_v2_Master__15_.png
       alt: Image alt text
@@ -36,47 +35,41 @@ sections:
       title: Submit a Scam Report
       subtitle: now accepts screenshots
       id: infopic
-      description: Help us stay on the lookout so we can catch scammers!!
+      description: Submit scam reports with screenshots, so we can monitor scams more
+        effectively
       button: Button Text
       alt: Image alt text
+      image: /images/ScamShield_App_v2_Master__16_.png
   - infopic:
       title: Block and filter/detect scams
-      subtitle: Improved
+      subtitle: Improved detection
       id: infopic
-      description: Infopic description
+      description: The ScamShield App blocks calls from numbers known to be used in
+        illegal activities. It also filters or alerts you to suspicious SMSes.
       alt: Image alt text
+      image: /images/ScamShield_App_v2__3_.png
   - infopic:
       title: United against scammers
       id: infopic
       description: ScamShield is a joint effort by the Ministry of Home Affairs, the
         Singapore Police Force, Open Government Products, and the National Crime
         Prevention Council.
-      button: Learn more
       url: /our-partners/
       image: /images/ss_infopic_bg_1.png
       alt: Image alt text
-  - infopic:
-      title: Keep safe with the ScamShield App
-      id: infopic
-      description: The ScamShield App blocks calls from numbers known to be used in
-        illegal activities. It also filters or alerts you to suspicious SMSes.
-      button: download now
-      url: https://www.scamshield.org.sg/android-app/
-      alt: Image alt text
-      image: /images/Keep_safe_with_ScamShield.png
   - textcards:
       title: Need more help?
       id: textcards
       cards:
         - title: Read our guide
           description: Card description
-          linktext: Learn more
+          linktext: Set up your ScamShield app
           url: ""
         - title: Contact us
           description: Card description
-          linktext: Learn more
+          linktext: Get help
           url: ""
-        - title: Read FAQs
+        - title: Go to FAQs
           description: Card description
           linktext: Learn more
           url: ""
