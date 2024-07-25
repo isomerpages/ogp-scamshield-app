@@ -28,9 +28,10 @@ sections:
       id: infopic
       description: Saw something suspicious? Use ScamShield's new 'Check for Scams'
         feature something something
-      button: Button Text
-      image: /images/Keep_safe_with_ScamShield.png
+      button: Learn more
+      image: /images/ScamShield_App_v2_Master__15_.png
       alt: Image alt text
+      url: www.google.com
   - infopic:
       title: Submit a Scam Report
       subtitle: now accepts screenshots
