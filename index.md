@@ -67,13 +67,4 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-  - infopic:
-      title: United against scammers
-      id: infopic
-      description: ScamShield is a joint effort by the Ministry of Home Affairs, the
-        Singapore Police Force, Open Government Products, and the National Crime
-        Prevention Council.
-      url: /our-partners/
-      image: /images/ss_infopic_bg_1.png
-      alt: Image alt text
 ---
