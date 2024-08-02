@@ -26,7 +26,7 @@ sections:
       title: Check for Scams
       subtitle: New!
       id: infopic
-      description: Know if a suspicious message, link, or number could be a scam
+      description: Know if a suspicious message, link, or number is likely to be a scam
       button: Learn more
       image: /images/ScamShield_App_v2_Master__15_.png
       alt: Image alt text
