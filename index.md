@@ -10,9 +10,9 @@ sections:
       background: /images/Hero_Option_10.png
       variant: center
   - infocols:
-      title: Stay safe with ScamShield
+      title: Stay safe with the ScamShield app
       id: infocols
-      linktext: Download or Update in app store
+      linktext: Download or update the app
       infoboxes:
         - title: Check for Scams
           description: Know if a suspicious message, link, or number could be a scam
