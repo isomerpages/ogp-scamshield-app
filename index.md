@@ -33,7 +33,7 @@ sections:
       url: /check-for-scams/
   - infopic:
       title: Submit a Scam Report
-      subtitle: improved feature
+      subtitle: improved reporting
       id: infopic
       description: If you've encountered a potential scam, report it to us along with
         screenshots, so we can monitor it more effectively.
@@ -42,10 +42,10 @@ sections:
       image: /images/ScamShield_App_v2_Master__16_.png
       url: /report-a-scam/permalink/
   - infopic:
-      title: Block and filter/detect scams
+      title: Block and filter scams
       subtitle: Improved detection
       id: infopic
-      description: The ScamShield App blocks calls from numbers known to be used in
+      description: The ScamShield app blocks calls from numbers known to be used in
         illegal activities. It also filters or alerts you to suspicious SMSes.
       alt: Image alt text
       image: /images/ScamShield_App_v2__3_.png
