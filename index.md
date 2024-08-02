@@ -14,11 +14,10 @@ sections:
       id: infocols
       linktext: Download or update the app
       infoboxes:
-        - title: Check for Scams
-          description: Know if a suspicious message, link, or number could be a scam
-        - title: Submit a scam report
-          description: Submit scam reports with screenshots, so we can monitor scams more
-            effectively
+        - title: Check for scams
+          description: Know if a suspicious message, link, or number is likely a scam
+        - title: Report potential scams
+          description: Submit reports with screenshots, so we can monitor them better
         - title: Block and filter scams
           description: Set up your phone to block calls and SMSes from scammers
       url: www.google.com
