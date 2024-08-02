@@ -23,9 +23,10 @@ sections:
       url: www.google.com
   - infopic:
       title: Check for Scams
-      subtitle: New!
+      subtitle: new feature
       id: infopic
-      description: Know if a suspicious message, link, or number is likely to be a scam
+      description: Received a suspicious message, link, or number? You can now check
+        if it's likely a scam.
       button: Learn more
       image: /images/ScamShield_App_v2_Master__15_.png
       alt: Image alt text
