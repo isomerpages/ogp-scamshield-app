@@ -33,10 +33,10 @@ sections:
       url: /check-for-scams/
   - infopic:
       title: Submit a Scam Report
-      subtitle: now accepts screenshots
+      subtitle: improved feature
       id: infopic
-      description: Submit scam reports with screenshots, so we can monitor scams more
-        effectively
+      description: If you've encountered a potential scam, report it to us along with
+        screenshots, so we can monitor it more effectively.
       button: Learn more
       alt: Image alt text
       image: /images/ScamShield_App_v2_Master__16_.png
