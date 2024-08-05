@@ -23,9 +23,8 @@ sections:
   - textcards:
       title: Get the app today
       id: textcards
-      description: "Visit the App Store or Play Store to download the ScamShield app,
-        or to update to the latest version. If you're reading this on your
-        phone, you can use the download links below:"
+      description: Visit the App Store or Play Store to download the ScamShield app,
+        or update to the latest version for new features.
       cards:
         - title: Download on iPhone
           description: ""
