@@ -20,6 +20,21 @@ sections:
           description: Submit reports with screenshots, so we can monitor them better
         - title: Block and filter scams
           description: Set up your phone to block calls and SMSes from scammers
+  - textcards:
+      title: Get the app today
+      id: textcards
+      description: "Visit the App Store or Play Store to download the ScamShield app,
+        or to update to the latest version. If you're reading this on your
+        phone, you can use the download links below:"
+      cards:
+        - title: Download on iPhone
+          description: ""
+          linktext: Open App Store
+          url: https://apps.apple.com/sg/app/scamshield/id1497144087
+        - title: Download on Android
+          description: ""
+          linktext: Open Play Store
+          url: https://play.google.com/store/apps/details?id=sg.gov.scamshield&hl=en_SG&pli=1
   - infopic:
       title: Check for scams
       subtitle: new feature
@@ -60,19 +75,4 @@ sections:
           description: for any feedback or assistance regarding the app
           linktext: Send feedback
           url: ""
-  - textcards:
-      title: Get the app today
-      id: textcards
-      description: "Visit the App Store or Play Store to download the ScamShield app,
-        or to update to the latest version. If you're reading this on your
-        phone, you can use the download links below:"
-      cards:
-        - title: Download on iPhone
-          description: ""
-          linktext: Open App Store
-          url: https://apps.apple.com/sg/app/scamshield/id1497144087
-        - title: Download on Android
-          description: ""
-          linktext: Open Play Store
-          url: https://play.google.com/store/apps/details?id=sg.gov.scamshield&hl=en_SG&pli=1
 ---
