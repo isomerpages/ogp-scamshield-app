@@ -20,17 +20,14 @@ sections:
           description: Submit reports with screenshots, so we can monitor them better
         - title: Block and filter scams
           description: Set up your phone to block calls and SMSes from scammers
-      url: www.google.com
   - infopic:
       title: Check for Scams
       subtitle: new feature
       id: infopic
-      description: Received a suspicious message, link, or number? You can now check
-        if it's likely a scam.
-      button: Learn more
+      description: Received a suspicious message, link, or number? You can now use the
+        ScamShield app to check if it's likely a scam.
       image: /images/ScamShield_App_v2_Master__15_.png
       alt: Image alt text
-      url: /check-for-scams/
   - infopic:
       title: Submit a Scam Report
       subtitle: improved reporting
