@@ -58,6 +58,6 @@ sections:
           url: ""
         - title: Contact us
           description: for any feedback or assistance regarding the app
-          linktext: Submit feedback
+          linktext: Send feedback
           url: ""
 ---
