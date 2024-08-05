@@ -63,16 +63,16 @@ sections:
   - textcards:
       title: Get the app today
       id: textcards
-      description: "Visit the official App Store (on iPhones) or Play Store (on
-        Android) to download the ScamShield app. If you're reading this on your
+      description: "Visit the App Store or Play Store to download the ScamShield app,
+        or to update to the latest version. If you're reading this on your
         phone, you can use the download links below:"
       cards:
-        - title: ScamShield for iOS
-          description: Download the app for your iPhone, or update to the latest version.
+        - title: Download on iPhone
+          description: ""
           linktext: Open App Store
           url: https://apps.apple.com/sg/app/scamshield/id1497144087
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: Download on Android
+          description: ""
+          linktext: Open Play Store
+          url: https://play.google.com/store/apps/details?id=sg.gov.scamshield&hl=en_SG&pli=1
 ---
