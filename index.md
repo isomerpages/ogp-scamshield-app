@@ -32,8 +32,8 @@ sections:
       title: Submit Scam Reports
       subtitle: improved reporting
       id: infopic
-      description: If you've encountered a potential scam, report it to us along with
-        screenshots, so we can monitor it more effectively.
+      description: If you have encountered a potential scam, report it to us along
+        with screenshots, so we can monitor it more effectively.
       alt: Image alt text
       image: /images/ScamShield_App_v2_Master__16_.png
   - infopic:
