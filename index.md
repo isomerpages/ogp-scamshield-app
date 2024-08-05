@@ -21,7 +21,7 @@ sections:
         - title: Block and filter scams
           description: Set up your phone to block calls and SMSes from scammers
   - infopic:
-      title: Check for Scams
+      title: Check for scams
       subtitle: new feature
       id: infopic
       description: Received a suspicious message, link, or number? You can now use the
@@ -29,7 +29,7 @@ sections:
       image: /images/ScamShield_App_v2_Master__15_.png
       alt: Image alt text
   - infopic:
-      title: Submit Scam Reports
+      title: Submit scam reports
       subtitle: improved reporting
       id: infopic
       description: If you have encountered a potential scam, report it to us along
@@ -44,8 +44,6 @@ sections:
         illegal activities. It also filters or alerts you to suspicious SMSes.
       alt: Image alt text
       image: /images/ScamShield_App_v2__3_.png
-      button: Learn more
-      url: /set-up-scamshield-app/
   - textcards:
       title: Need more help?
       id: textcards
