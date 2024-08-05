@@ -10,7 +10,7 @@ sections:
       background: /images/Hero_Option_10.png
       variant: center
   - infocols:
-      title: Stay safe with the ScamShield app
+      title: Stay safe with the enhanced ScamShield app
       id: infocols
       linktext: Download or update the app
       infoboxes:
