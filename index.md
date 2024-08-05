@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: Received a suspicious message, link, or number? You can now use the
         ScamShield app to check if it's likely a scam.
-      image: /images/check.png
+      image: /images/ScamShield_App_v2_Master__15_.png
       alt: Image alt text
   - infopic:
       title: Submit scam reports
@@ -59,5 +59,20 @@ sections:
         - title: Contact us
           description: for any feedback or assistance regarding the app
           linktext: Send feedback
+          url: ""
+  - textcards:
+      title: Get the app today
+      id: textcards
+      description: "Visit the official App Store (on iPhones) or Play Store (on
+        Android) to download the ScamShield app. If you're reading this on your
+        phone, you can use the download links below:"
+      cards:
+        - title: ScamShield for iOS
+          description: Download the app for your iPhone, or update to the latest version.
+          linktext: Open App Store
+          url: https://apps.apple.com/sg/app/scamshield/id1497144087
+        - title: Card
+          description: Card description
+          linktext: Learn more
           url: ""
 ---
