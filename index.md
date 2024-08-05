@@ -40,7 +40,7 @@ sections:
       id: infopic
       description: Received a suspicious message, link, or number? You can now use the
         ScamShield app to check if it's likely a scam.
-      image: /images/check_1.png
+      image: /images/Check.gif
       alt: Image alt text
   - infopic:
       title: Submit scam reports
