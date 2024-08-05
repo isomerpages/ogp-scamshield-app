@@ -29,15 +29,13 @@ sections:
       image: /images/ScamShield_App_v2_Master__15_.png
       alt: Image alt text
   - infopic:
-      title: Submit a Scam Report
+      title: Submit Scam Reports
       subtitle: improved reporting
       id: infopic
       description: If you've encountered a potential scam, report it to us along with
         screenshots, so we can monitor it more effectively.
-      button: Learn more
       alt: Image alt text
       image: /images/ScamShield_App_v2_Master__16_.png
-      url: /report-a-scam/permalink/
   - infopic:
       title: Block and filter scams
       subtitle: Improved detection
