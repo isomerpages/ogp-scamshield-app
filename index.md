@@ -40,7 +40,7 @@ sections:
       id: infopic
       description: Received a suspicious message, link, or number? You can now use the
         ScamShield app to check if it's likely a scam.
-      image: /images/ScamShield_App_v2_Master__15_.png
+      image: /images/check_1.png
       alt: Image alt text
   - infopic:
       title: Submit scam reports
@@ -59,7 +59,7 @@ sections:
       alt: Image alt text
       image: /images/ScamShield_App_v2__3_.png
   - textcards:
-      title: More resources
+      title: Need more information?
       id: textcards
       cards:
         - title: Read the guide
@@ -74,12 +74,4 @@ sections:
           description: for any feedback or assistance regarding the app
           linktext: Send feedback
           url: ""
-  - infobar:
-      title: Fallen for a scam?
-      id: infobar
-      description: If you have already been scammed, please file an official police
-        e-report. Scam reports submitted on the ScamShield app are NOT police
-        reports.
-      button: File a police e-report
-      url: https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report
 ---
