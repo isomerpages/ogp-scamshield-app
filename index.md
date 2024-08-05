@@ -59,7 +59,7 @@ sections:
       alt: Image alt text
       image: /images/ScamShield_App_v2__3_.png
   - textcards:
-      title: Need more information?
+      title: More resources
       id: textcards
       cards:
         - title: Read the guide
@@ -74,4 +74,12 @@ sections:
           description: for any feedback or assistance regarding the app
           linktext: Send feedback
           url: ""
+  - infobar:
+      title: Fallen for a scam?
+      id: infobar
+      description: If you have already been scammed, please file an official police
+        e-report. Scam reports submitted on the ScamShield app are NOT police
+        reports.
+      button: File a police e-report
+      url: https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report
 ---
