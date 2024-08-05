@@ -45,19 +45,19 @@ sections:
       alt: Image alt text
       image: /images/ScamShield_App_v2__3_.png
   - textcards:
-      title: Need more help?
+      title: Need more information?
       id: textcards
       cards:
-        - title: Read our guide
-          description: Card description
-          linktext: Set up your ScamShield app
+        - title: Read the guide
+          description: for instructions, and more details about the app's features
+          linktext: Open guide
+          url: ""
+        - title: Browse the FAQs
+          description: for answers to common questions about ScamShield
+          linktext: Open FAQs
           url: ""
         - title: Contact us
-          description: Card description
-          linktext: Get help
-          url: ""
-        - title: Go to FAQs
-          description: Card description
-          linktext: Learn more
+          description: for any feedback or assistance regarding the app
+          linktext: Submit feedback
           url: ""
 ---
