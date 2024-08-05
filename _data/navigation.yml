@@ -2,5 +2,7 @@ logo: /images/Logo_2024.png
 links:
   - title: About ScamShield
     url: /about-scamshield
-  - title: Set up for iphone
+  - title: Set up on iphone
     url: /iphone-setup
+  - title: Set up on android
+    url: /android-setup
