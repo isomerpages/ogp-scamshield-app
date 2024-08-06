@@ -69,7 +69,7 @@ sections:
         - title: Browse the FAQs
           description: for answers to common questions about ScamShield
           linktext: Open FAQs
-          url: ""
+          url: https://ask.gov.sg/scamshield
         - title: Contact us
           description: for any feedback or assistance regarding the app
           linktext: Send feedback
