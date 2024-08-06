@@ -40,7 +40,7 @@ sections:
       id: infopic
       description: Received a suspicious message, link, or number? You can now use the
         ScamShield app to check if it's likely a scam.
-      image: /images/Check.gif
+      image: /images/check_static2.png
       alt: Image alt text
   - infopic:
       title: Submit scam reports
@@ -49,7 +49,7 @@ sections:
       description: If you have encountered a potential scam, report it to us along
         with screenshots, so we can monitor it more effectively.
       alt: Image alt text
-      image: /images/ScamShield_App_v2_Master__16_.png
+      image: /images/report_static.png
   - infopic:
       title: Block and filter scams
       subtitle: Improved detection
@@ -57,7 +57,7 @@ sections:
       description: The ScamShield app blocks calls from numbers known to be used in
         illegal activities. It also filters or alerts you to suspicious SMSes.
       alt: Image alt text
-      image: /images/ScamShield_App_v2__3_.png
+      image: /images/block_filter_static.png
   - textcards:
       title: Need more information?
       id: textcards
