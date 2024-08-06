@@ -33,7 +33,6 @@ sections:
         - title: Download on Android
           description: ""
           linktext: Coming soon!
-          url: google.com
   - infopic:
       title: Check for scams
       subtitle: new feature
