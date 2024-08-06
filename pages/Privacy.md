@@ -4,7 +4,6 @@ permalink: /privacy/
 variant: tiptap
 description: ""
 ---
-<h5>ScamShield App:</h5>
 <p>The ScamShield App is an application that works actively in the background
 to facilitate the detection, reporting and blocking of potential scam calls,
 as well as potential scam messages from unknown numbers not in your contact
