@@ -71,7 +71,7 @@ sections:
           linktext: Open FAQs
           url: https://ask.gov.sg/scamshield
         - title: Contact us
-          description: for any feedback or assistance regarding the app
+          description: for any questions or issues you're facing
           linktext: Send feedback
           url: ""
 ---
