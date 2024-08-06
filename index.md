@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_Option_10.png
+      background: /images/Hero_Option_13.png
       variant: center
   - infocols:
       title: Stay safe with the enhanced ScamShield app
