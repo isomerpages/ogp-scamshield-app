@@ -74,4 +74,12 @@ sections:
           description: for any questions or issues you're facing
           linktext: Get in touch
           url: ""
+  - infobar:
+      title: Have you been scammed?
+      id: infobar
+      description: If you have fallen for a scam, please file an official report
+        directly with the police. Scam reports submitted on ScamShield are NOT
+        e-reports.
+      button: file an e-report online
+      url: https://eservices1.police.gov.sg/phub/eservices/homepage
 ---
