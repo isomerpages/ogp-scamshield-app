@@ -8,7 +8,7 @@ description: ""
 so that it can protect you against scammers. To do this, you will need
 to give the app a few permissions, so it is able to block scam calls, and
 alert you to scam SMSes.</p>
-<h4>How to set up call blocking on Android</h4>
+<h3>How to set up call blocking on Android</h3>
 <p><strong>Step 1: Open the ScamShield app. Tap on 'Set up' next to 'Scam call blocking not set up'.</strong>
 </p>
 <div class="isomer-image-wrapper">
