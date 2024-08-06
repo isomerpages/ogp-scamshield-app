@@ -12,7 +12,7 @@ alert you to scam SMSes.</p>
 <p><strong>Step 1: Open the ScamShield app. Tap on 'Set up' next to 'Scam call blocking not set up'.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Android_Call_Step_1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Android_Call_Step_1.png">
 </div>
 <p></p>
 <p><strong>Step 2: Tap 'Next' to proceed.</strong>
