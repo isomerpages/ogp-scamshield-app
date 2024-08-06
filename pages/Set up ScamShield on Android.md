@@ -43,7 +43,7 @@ alert you to scam SMSes.</p>
 how to set up call blocking on your Android phone.</p>
 <hr>
 <p></p>
-<h4>How to set up SMS filtering on Android</h4>
+<h3>How to set up SMS filtering on Android</h3>
 <p><strong>Step 1: Tap on 'Set up' next to 'Scam SMS filtering...' to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
