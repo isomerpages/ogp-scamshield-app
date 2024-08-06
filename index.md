@@ -72,6 +72,6 @@ sections:
           url: https://ask.gov.sg/scamshield
         - title: Contact us
           description: for any questions or issues you're facing
-          linktext: Send feedback
+          linktext: Get in touch
           url: ""
 ---
