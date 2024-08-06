@@ -73,7 +73,7 @@ sections:
         - title: Contact us
           description: for any questions or issues you're facing
           linktext: Get in touch
-          url: ""
+          url: https://go.gov.sg/scamshield-contact-us
   - infobar:
       title: Have you been scammed?
       id: infobar
