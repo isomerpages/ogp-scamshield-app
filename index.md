@@ -65,7 +65,7 @@ sections:
         - title: Read the guide
           description: for instructions, and more details about the app's features
           linktext: Open guide
-          url: ""
+          url: https://guide.scamshield.gov.sg/
         - title: Browse the FAQs
           description: for answers to common questions about ScamShield
           linktext: Open FAQs
