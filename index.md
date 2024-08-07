@@ -7,116 +7,77 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_Option_10.png
+      background: /images/Hero_Option_13.png
       variant: center
-      key_highlights:
-        - title: Get help if you have been scammed
-          description: ""
-          url: /i-ve-been-scammed/
-        - title: check if something suspicious is a scam
-          description: ""
-          url: /check-if-something-is-a-scam/
-        - title: Report a scam you have encountered
-          description: ""
-          url: /report-scam-encounter/
-        - title: Protect yourself against scams
-          description: ""
-          url: /introduction-to-scams/
+  - infocols:
+      title: Stay safe with the enhanced ScamShield app
+      id: infocols
+      linktext: Download or update the app
+      infoboxes:
+        - title: Check for scams
+          description: Know if a suspicious message, link, or number is likely a scam
+        - title: Report potential scams
+          description: Submit reports with screenshots, so we can monitor them better
+        - title: Block and filter scams
+          description: Set up your phone to block calls and SMSes from scammers
   - textcards:
-      title: Trending scams
-      subtitle: June 2024
+      title: Get the app today
+      id: textcards
+      description: Visit the App Store or Play Store to download the ScamShield app,
+        or update to the latest version for new features.
+      cards:
+        - title: Download on iPhone
+          description: ""
+          linktext: Open App Store
+          url: https://apps.apple.com/sg/app/scamshield/id1497144087
+        - title: Download on Android
+          description: "Coming soon!"
+  - infopic:
+      title: Check for scams
+      subtitle: new feature
+      id: infopic
+      description: Received a suspicious message, link, or number? You can now use the
+        ScamShield app to check if it's likely a scam.
+      image: /images/check_static2.png
+      alt: Image alt text
+  - infopic:
+      title: Submit scam reports
+      subtitle: improved reporting
+      id: infopic
+      description: If you have encountered a potential scam, report it to us along
+        with screenshots, so we can monitor it more effectively.
+      alt: Image alt text
+      image: /images/report_static.png
+  - infopic:
+      title: Block and filter scams
+      subtitle: Improved detection
+      id: infopic
+      description: The ScamShield app blocks calls from numbers known to be used in
+        illegal activities. It also filters or alerts you to suspicious SMSes.
+      alt: Image alt text
+      image: /images/block_filter_static.png
+  - textcards:
+      title: Need more information?
       id: textcards
       cards:
-        - title: Investment scam
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Government Impersonation scam
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Phishing scam
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Job scam
-          description: ""
-          linktext: Learn more
-          url: ""
+        - title: Read the guide
+          description: for instructions, and more details about the app's features
+          linktext: Open guide
+          url: https://guide.scamshield.gov.sg/
+        - title: Browse the FAQs
+          description: for answers to common questions about ScamShield
+          linktext: Open FAQs
+          url: https://ask.gov.sg/scamshield
+        - title: Contact us
+          description: for any questions or issues you're facing
+          linktext: Get in touch
+          url: https://go.gov.sg/scamshield-contact-us
   - infobar:
-      title: CALL 1799
-      subtitle: unsure if something is a scam?
+      title: Have you been scammed?
       id: infobar
-      description: Call the helpline if you are in a situation you think could be a scam
-      button: or check using the scamshield app
-      url: www.scamshield.gov.sg
-  - infopic:
-      title: Keep safe with the ScamShield App
-      id: infopic
-      description: The ScamShield App blocks calls from numbers known to be used in
-        illegal activities. It also filters or alerts you to suspicious SMSes.
-      button: Learn more
-      url: https://www.scamshield.org.sg/android-app/
-      alt: Image alt text
-      image: /images/Keep_safe_with_ScamShield.png
-  - infopic:
-      title: 1 in 5 Singaporeans has fallen for a scam
-      subtitle: Did you know?
-      id: infopic
-      description: Protect yourself and loved ones with scam-prevention tools, and
-        always be alert to potential scams.
-      image: /images/thumbnail_frustrated_guy_in_front_of_computer_2x.jpg
-      alt: Image alt text
-  - infopic:
-      title: Scams Bulletin
-      subtitle: June 2024
-      id: infopic
-      button: Read Now
-      url: about:space
-      image: /images/Scams_bulletin.png
-      alt: Image alt text
-      description: Learn about the latest scam trends from the Police's Monthly Scams
-        Bulletin.
-  - announcements:
-      title: Lastest News
-      id: announcements
-      subtitle: Anti-Scam efforts
-      announcement_items:
-        - title: BELOW ARE DRAFT
-          date: 31 December 2200
-          announcement: Below content are draft
-          link_text: ""
-          link_url: ""
-        - title: Enhanced ScamShield App
-          date: 30 June 2024
-          announcement: ScamShield App has been enhanced. Find out more about the new
-            features here.
-          link_text: Read now
-          link_url: scamshield.org.sg
-        - title: New one-stop portal
-          date: 30 August 2024
-          announcement: A new one-stop portal for all scam related content has been launched.
-          link_text: Read now
-          link_url: scamshield.gov.sg
-        - title: Anti-Scam competition
-          date: 16 April 2024
-          announcement: ABS launches anti-scam mascot design competition
-          link_text: Find out more
-          link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
-        - title: I can ACT against scams launched
-          date: 16 January 2023
-          announcement: A new national campaign to empower individuals to ACT against
-            scams have been launched
-          link_text: Find out more
-          link_url: mha.gov.sg
-  - infopic:
-      title: United against scammers
-      id: infopic
-      description: ScamShield is a joint effort by the Ministry of Home Affairs, the
-        Singapore Police Force, Open Government Products, and the National Crime
-        Prevention Council.
-      button: Learn more
-      url: /our-partners/
-      image: /images/ss_infopic_bg_1.png
-      alt: Image alt text
+      description: If you have fallen for a scam, please file an official report
+        directly with the police. Scam reports submitted on ScamShield are NOT
+        e-reports.
+      button: file an e-report online
+      url: https://eservices1.police.gov.sg/phub/eservices/homepage
 ---
