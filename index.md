@@ -31,7 +31,9 @@ sections:
           linktext: Open App Store
           url: https://apps.apple.com/sg/app/scamshield/id1497144087
         - title: Download on Android
-          description: "Coming soon!"
+          description: ""
+          linktext: Open Play Store
+          url: https://play.google.com/store/apps/details?id=sg.gov.scamshield&hl=en_SG&pli=1
   - infopic:
       title: Check for scams
       subtitle: new feature
