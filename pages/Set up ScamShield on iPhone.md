@@ -41,7 +41,7 @@ filter scam SMSes.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_Step_5.jpg">
 </div>
 <p></p>
-<p>You can also <a href="https://guide.scamshield.gov.sg/getting-started/setup-call-blocking#setup-call-blocking-on-ios" rel="noopener noreferrer nofollow" target="_blank">watch an interactive demo</a> of
+<p>You can also <a href="https://guide.scamshield.gov.sg/getting-started/setup-call-blocking/setup-call-blocking-on-ios" rel="noopener noreferrer nofollow" target="_blank">watch an interactive demo</a> of
 how to set up call blocking on your iPhone.</p>
 <hr>
 <p></p>
@@ -101,7 +101,7 @@ label.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_8.jpg">
 </div>
 <p></p>
-<p>You can also <a href="https://guide.scamshield.gov.sg/getting-started/setup-sms-filtering#setup-sms-filtering-on-ios" rel="noopener noreferrer nofollow" target="_blank">watch an interactive demo</a> of
+<p>You can also <a href="https://guide.scamshield.gov.sg/getting-started/setup-sms-filtering/setup-sms-filtering-on-ios" rel="noopener noreferrer nofollow" target="_blank">watch an interactive demo</a> of
 how to set up SMS filtering on your iPhone.</p>
 <p></p>
 <p></p>
