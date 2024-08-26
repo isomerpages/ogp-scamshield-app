@@ -39,7 +39,7 @@ alert you to scam SMSes.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Android_Call_Step_5.png">
 </div>
 <p></p>
-<p>You can also <a href="https://guide.scamshield.gov.sg/getting-started/setup-call-blocking#setup-call-blocking-on-android" rel="noopener noreferrer nofollow" target="_blank">watch an interactive demo</a> of
+<p>You can also <a href="https://guide.scamshield.gov.sg/getting-started/setup-call-blocking/setup-call-blocking-on-android" rel="noopener noreferrer nofollow" target="_blank">watch an interactive demo</a> of
 how to set up call blocking on your Android phone.</p>
 <hr>
 <p></p>
@@ -83,5 +83,5 @@ will not view SMSes from your saved contacts.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Android_SMS_Step_5.png">
 </div>
 <p></p>
-<p>You can also <a href="https://guide.scamshield.gov.sg/getting-started/setup-sms-filtering#setup-sms-filtering-on-android" rel="noopener noreferrer nofollow" target="_blank">watch an interactive demo</a> of
+<p>You can also <a href="https://guide.scamshield.gov.sg/getting-started/setup-sms-filtering/setup-sms-filtering-on-android" rel="noopener noreferrer nofollow" target="_blank">watch an interactive demo</a> of
 how to set up SMS filtering on your Android phone.</p>
